@@ -89,7 +89,7 @@ This project includes a **statistical parity analysis** across:
 
 ```bash
 # Clone the repository
-git clone https://github.com/lorenzolai/credit-scoring-ml.git
+git clone https://github.com/EmilioLussu/credit.scoring.ml.git
 cd credit-scoring-ml
 
 # Install dependencies
