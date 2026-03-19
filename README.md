@@ -82,6 +82,10 @@ This project includes a **statistical parity analysis** across:
 | `02_model_comparison.png` | ROC curves, AUC comparison with CV error bars, metrics heatmap |
 | `03_feature_importance_xai.png` | Feature importance per model (XAI proxy for Shapley values) |
 | `04_fairness_analysis.png` | Statistical parity across gender, education, and age groups |
+![](01_eda.png)
+![](02_model_comparison.png)
+![](03_feature_importance_xai.png)
+![](04_fairness_analysis.png)
 
 ---
 
